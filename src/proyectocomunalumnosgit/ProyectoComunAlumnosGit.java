@@ -19,6 +19,9 @@ public class ProyectoComunAlumnosGit {
       
         System.out.println("Método de Marta");
     }
+    public void metodoVictorMartinez() {
+        System.out.println(" Método de Victor Martinez Escobar");
+    }
 
 }
  
