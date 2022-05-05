@@ -19,6 +19,9 @@ public class ProyectoComunAlumnosGit {
       
         System.out.println("Método de Marta");
     }
+    public static String Alex(){
+        return "Metodo Alex";
+    }
 
 }
  
