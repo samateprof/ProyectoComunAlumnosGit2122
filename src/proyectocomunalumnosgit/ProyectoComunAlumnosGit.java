@@ -19,7 +19,9 @@ public class ProyectoComunAlumnosGit {
       
         System.out.println("Método de Marta");
     }
-
+    public static void Martin_Martinez() {
+        System.out.println("Método de Martin");
+    }
 }
  
  
