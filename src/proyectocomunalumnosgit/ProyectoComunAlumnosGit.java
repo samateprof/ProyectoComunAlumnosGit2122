@@ -19,6 +19,9 @@ public class ProyectoComunAlumnosGit {
       
         System.out.println("Método de Marta");
     }
+    public void metodoSonia (){
+        System.out.println("Método de Sonia");
+    }
 
 }
  
