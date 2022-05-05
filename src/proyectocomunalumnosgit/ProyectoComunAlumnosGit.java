@@ -19,6 +19,14 @@ public class ProyectoComunAlumnosGit {
       
         System.out.println("Método de Marta");
     }
+    
+    
+    
+       public String dameDatos(){
+        String dameDatos = null;
+        return dameDatos;
+    }
+    
 
 }
  
