@@ -18,11 +18,16 @@ public class ProyectoComunAlumnosGit {
         System.out.println("Probando Github con múltiples colaboradores");
       
         System.out.println("Método de Marta");
-        
     }
-    public static void metodoMario (){
-        System.out.println("Método de Mario Blasco");
+    
+    
+    
+       public String dameDatos(){
+        String dameDatos = null;
+        return dameDatos;
     }
+    
+
 }
  
  
