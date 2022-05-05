@@ -20,6 +20,9 @@ public class ProyectoComunAlumnosGit {
         System.out.println("Método de Marta");
     }
 
+    public void metodoDanielSerrano(){
+        System.out.println("Método de Daniel Serrano");
+    }
 }
  
  
