@@ -22,10 +22,9 @@ public class ProyectoComunAlumnosGit {
     
     
     
-      public static int sumar(int a, int b){
-           int c;
-           c = a + b;
-           return c;
+      public static String almudena(String nombre){
+           nombre= "Almudena";
+           return nombre;
     }
 
 
