@@ -22,9 +22,8 @@ public class ProyectoComunAlumnosGit {
     
     
     
-      public static String almudena(String nombre){
-           nombre= "Almudena";
-           return nombre;
+      public static void almudena(){
+           System.out.println("Almudena");
     }
 
 
