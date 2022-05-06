@@ -22,10 +22,13 @@ public class ProyectoComunAlumnosGit {
     
     
     
-       public String dameDatos(){
-        String dameDatos = null;
-        return dameDatos;
+      public static int sumar(int a, int b){
+           int c;
+           c = a + b;
+           return c;
     }
+
+
     
 
 }
