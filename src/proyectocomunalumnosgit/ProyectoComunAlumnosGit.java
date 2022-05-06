@@ -19,7 +19,10 @@ public class ProyectoComunAlumnosGit {
       
         System.out.println("Método de Marta");
     }
-
+    public void metodoAlejandro(){
+        System.out.println("Método de Alejandro");  
+        
+    }
 }
  
  
